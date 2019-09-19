@@ -1,0 +1,1 @@
+### ADMOB test react-native 0.60.x
